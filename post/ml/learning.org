@@ -1,0 +1,6 @@
+* Learning Theory
+** Introduction
+   Just like $(\epsilon,\delta)$ definition of limit in calculus, learning theory tries
+   to answer the fundamental questions like "why machine could learn" and therefore it serves
+   as the very foundation of machine learning.
+

@@ -7,9 +7,15 @@ Welcome to Machine Learning Wiki!
 =================================================
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 1
 
    post/prologue
+   post/linalg
+   post/cvx
+   post/ml
+   post/dl
+   post/research
+
 
    :caption: Contents:
 
@@ -19,5 +25,4 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`

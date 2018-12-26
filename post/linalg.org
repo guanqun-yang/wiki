@@ -1,0 +1,7 @@
+#+TITLE: Linear Algebra
+#+AUTHOR: Guanqun Yang
+#+DATE:
+
+* Introduction
+This set of notes is the combination of my undergrad linear algebra notes and
+graduate matrix analysis notes.
