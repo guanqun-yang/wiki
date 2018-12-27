@@ -73,22 +73,21 @@
       \vdots & \vdots\\
       \mathbf{x}_m^T& y_m
       \end{bmatrix}$$
-   
-      
- #+CAPTION: Notation used throughout the posts
- |------------------------------------------------------------------------------------------------------------------------+-------------------------|
- | Notation                                                                                                               | Meaning                 |
- |------------------------------------------------------------------------------------------------------------------------+-------------------------|
- | $\mathcal{X}$                                                                                                          | domain set              |
- | $\mathcal{Y}$                                                                                                          | label set               |
- | $\mathcal{D}: \mathcal{X}\times \mathcal{Y}$                                                                           | underlying distribution |
- | $D=\{(\mathbf{x}_1,y_1), (\mathbf{x}_2, y_2),\cdots, (\mathbf{x}_m,y_m) \}$                                            | dataset                 |
- | $\mathbf{x}_i:=\left[x_{i1};x_{i2};\cdots;x_{ip}\right]:=\begin{bmatrix}x_{i1}\\x_{i2}\\\vdots\\x_{ip}  \end{bmatrix}$ | feature vector          |
- | $\mathbf{X}:=\begin{bmatrix}\mathbf{x}_1^T\\\mathbf{x}_2^T\\\vdots\\\mathbf{x}_m^T \end{bmatrix}$                      | feature matrix          |
- | $\mathcal{H}$                                                                                                          | hypothesis class        |
- | $h$                                                                                                                    | hypothesis              |
- | $X$                                                                                                                    | random variable         |
- | $\mathbb{R}^{m\times p}$                                                                                               | $m\times p$ real space  |
- |------------------------------------------------------------------------------------------------------------------------+-------------------------|
+
+#+CAPTION: Notation used throughout this set of notes
+  |------------------------------------------------------------------------------------------------------------------------+-------------------------|
+  | Notation                                                                                                               | Meaning                 |
+  |------------------------------------------------------------------------------------------------------------------------+-------------------------|
+  | $\mathcal{X}$                                                                                                          | domain set              |
+  | $\mathcal{Y}$                                                                                                          | label set               |
+  | $\mathcal{D}: \mathcal{X}\times \mathcal{Y}$                                                                           | underlying distribution |
+  | $D=\{(\mathbf{x}_1,y_1), (\mathbf{x}_2, y_2),\cdots, (\mathbf{x}_m,y_m) \}$                                            | dataset                 |
+  | $\mathbf{x}_i:=\left[x_{i1};x_{i2};\cdots;x_{ip}\right]:=\begin{bmatrix}x_{i1}\\x_{i2}\\\vdots\\x_{ip}  \end{bmatrix}$ | feature vector          |
+  | $\mathbf{X}:=\begin{bmatrix}\mathbf{x}_1^T\\\mathbf{x}_2^T\\\vdots\\\mathbf{x}_m^T \end{bmatrix}$                      | feature matrix          |
+  | $\mathcal{H}$                                                                                                          | hypothesis class        |
+  | $h$                                                                                                                    | hypothesis              |
+  | $X$                                                                                                                    | random variable         |
+  | $\mathbb{R}^{m\times p}$                                                                                               | $m\times p$ real space  |
+  |------------------------------------------------------------------------------------------------------------------------+-------------------------|
 
 

@@ -111,7 +111,7 @@ Here are some guidelines I will abide by:
           \mathbf{x}_m^T& y_m
           \end{bmatrix}
 
-.. table:: Notation used throughout the posts
+.. table:: Notation used throughout this set of notes
 
    ============================================================================================================================ ============================
    Notation                                                                                                                     Meaning

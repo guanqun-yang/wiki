@@ -15,6 +15,7 @@ Welcome to Machine Learning Wiki!
    post/ml
    post/dl
    post/research
+   post/resource
 
 
    :caption: Contents:
