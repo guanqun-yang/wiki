@@ -65,3 +65,65 @@ The following notes will be compiled and hosted on this site
 -  Statistical machine learning
 -  Deep learning
 -  My current research
+
+Notation
+========
+
+From the previous experiences, I have spent a lot of time resolving
+notation differences resulting from learning with multiple sources. In
+the posts I am going to write, I will try to make the notations
+consistent.
+
+Here are some guidelines I will abide by:
+
+-  Matrices, probability, expectation will all use square brackets.
+
+   Note a more formal version of probability/expectation signs, i.e.
+   :math:`\mathbb{P}` and :math:`\mathbb{E}`, will not be used for
+   efficiency.
+
+   -  Example (Markov inequality)
+
+      .. math::
+
+
+           P[X \geq a] \leq \frac{E[X]}{a}\ (a>0)
+           
+
+-  Feature vectors will appear as row vectors in feature matrix. In
+   classification problems, the dataset (both features and labels) could
+   be arranged as matrix.
+
+   Note sometimes it is confusing to use :math:`m` and :math:`n` as
+   subscripts simultanelously, so when referring number of examples in
+   the dataset, either :math:`m` or :math:`n` will be used. At the same
+   time, :math:`p` will be used to represent number of features in
+   feature vector.
+
+   -  Example (dataset rearranged as matrix)
+
+      .. math::
+
+         \begin{bmatrix}
+          \mathbf{x}_1^T& y_1\\
+          \mathbf{x}_2^T& y_2\\
+          \vdots & \vdots\\
+          \mathbf{x}_m^T& y_m
+          \end{bmatrix}
+
+.. table:: Notation used throughout the posts
+
+   ============================================================================================================================ ============================
+   Notation                                                                                                                     Meaning
+   ============================================================================================================================ ============================
+   :math:`\mathcal{X}`                                                                                                          domain set
+   :math:`\mathcal{Y}`                                                                                                          label set
+   :math:`\mathcal{D}: \mathcal{X}\times \mathcal{Y}`                                                                           underlying distribution
+   :math:`D=\{(\mathbf{x}_1,y_1), (\mathbf{x}_2, y_2),\cdots, (\mathbf{x}_m,y_m) \}`                                            dataset
+   :math:`\mathbf{x}_i:=\left[x_{i1};x_{i2};\cdots;x_{ip}\right]:=\begin{bmatrix}x_{i1}\\x_{i2}\\\vdots\\x_{ip}  \end{bmatrix}` feature vector
+   :math:`\mathbf{X}:=\begin{bmatrix}\mathbf{x}_1^T\\\mathbf{x}_2^T\\\vdots\\\mathbf{x}_m^T \end{bmatrix}`                      feature matrix
+   :math:`\mathcal{H}`                                                                                                          hypothesis class
+   :math:`h`                                                                                                                    hypothesis
+   :math:`X`                                                                                                                    random variable
+   :math:`\mathbb{R}^{m\times p}`                                                                                               :math:`m\times p` real space
+   ============================================================================================================================ ============================
