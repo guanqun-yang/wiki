@@ -3,11 +3,8 @@ Machine Learning
 ================
 
 :Author: Guanqun Yang
+:Date:   12/28/2018
 
-
-.. role:: raw-latex(raw)
-   :format: latex
-..
 
 Preface
 =======
@@ -25,6 +22,7 @@ The following notes come from three major sources
       build up a mental repo of numerous algorithms. Just as many other
       introductory courses, an algorithm-by-algorithm style teaching is
       used by instroctor.
+
    #. STAT 202A: Statistical Computing
 
       The computation and statistical side of machine learning is the
@@ -33,6 +31,7 @@ The following notes come from three major sources
       low-level computation or jump into very high-level theoretical
       generalization in a snap. These insights are invaluable for me to
       organize my mental repo previously built.
+
    #. CS 260: Machine Learning Algorithms
 
       This is the course that answers some fundamental yet negelected
@@ -49,6 +48,7 @@ The following notes come from three major sources
 
    Self-study never stops ever since then but now it becomes more
    productive with help of formal education I received.
+
 -  Project experiences: Though this may not seem to be directly related
    to this set of notes, doing projects for the project-based courses or
    Kaggle let me know the power of machine learning and motivated me to
@@ -58,10 +58,12 @@ Since most of the following sections will talk about specific
 algorithms, they will be organized in a similar layout and common
 components may include ``Motivation``, ``Algorithm``, ``Discussion`` and
 ``Computation``. However, when discussing learning theory, such layouts
-will not be followed. :raw-latex:`\\`
+will not be followed.
+
 
 Learning Theory
 ===============
+
 
 Introduction
 ------------
@@ -78,6 +80,7 @@ side*, which is referred to as two different cultures in some literature
 (see
 `StackExchange <https://stats.stackexchange.com/questions/6/the-two-cultures-statistics-vs-machine-learning>`__).
 
+
 The first viewpoint
 ~~~~~~~~~~~~~~~~~~~
 
@@ -92,6 +95,7 @@ some research preferences in each community, specifically
    intervals, hypothesis tests, optimal estimators) in low dimensional
    problems. Some topics of interests include survival analysis time
    series, spatial analysis.
+
 -  Machine learning emphasizes high dimensional *prediction* problems.
    Some topics of interests include online learning, semi-supervised
    learning, manifold learning, active learning and boosting.
@@ -126,6 +130,7 @@ differences could be found
 `here <https://stats.stackexchange.com/a/73180/191779>`__ (really
 interesting read).
 
+
 The second viewpoint
 ~~~~~~~~~~~~~~~~~~~~
 
@@ -141,10 +146,12 @@ machine learning, but also *learning in data mining*, specifically
    proofs. As a result, statistics focuses on somewhat idealized models
    and analyzes them in great detail. … .Therefore, we end up with
    weaker results that are nonetheless boradly applicable.
+
 -  Data mining is a practical field that focuses on finding patterns,
    correlations, or anomalies in large relational database. … .
    Technically, data mining is the same as learning from data, with more
    emphasis on data analysis than on prediction.
+
 
 The third viewpoint
 ~~~~~~~~~~~~~~~~~~~
@@ -158,8 +165,10 @@ Summary of some answers on
    #. Statistics papers are overwhelmingly formal and deductive while
       machine learning papers might not have proofs when proposing new
       approaches.
+
    #. Statistics still covers topics like survey design, sampling, which
       are of little concern for machine learning
+
    #. Machine learning progresses more quickly than statistics since
       their papers are generally published on conferences.
 
@@ -170,32 +179,50 @@ Summary of some answers on
    machine learning emphasizes *prediction* of new data with respect to
    some variables.
 
-:raw-latex:`\\`
 
 Supervised Learning
 ===================
 
+
 Regression
 ----------
 
+
 Linear Regression
-=================
+~~~~~~~~~~~~~~~~~
+
 
 Classification
 --------------
 
+
 Logistic Regression
-===================
+~~~~~~~~~~~~~~~~~~~
+
 
 Unsupervised Learning
 =====================
 
+
 Clustering
 ----------
 
-:raw-latex:`\\`
+
+K-Means
+~~~~~~~
+
+
+Spectral Clustering
+~~~~~~~~~~~~~~~~~~~
+
 
 Dimensionality Reduction
 ------------------------
 
-:raw-latex:`\\`
+
+PCA
+~~~
+
+
+t-SNE
+~~~~~

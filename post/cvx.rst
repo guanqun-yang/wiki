@@ -8,7 +8,8 @@ Convex Optimization
 Introduction
 ============
 
-This set of notes come from two different courses
+| This set of notes come from two different courses
 
--  ECE 236A: Linear Programming
--  ECE 236B: Convex Optimization
+-  | ECE 236A: Linear Programming
+
+-  | ECE 236B: Convex Optimization

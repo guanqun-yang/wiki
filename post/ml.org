@@ -1,6 +1,6 @@
 #+TITLE: Machine Learning
 #+AUTHOR: Guanqun Yang
-#+DATE:
+#+DATE: 12/28/2018
 #+MACRO: NEWLINE @@latex:\\@@ @@html:<br>@@ @@ascii:|@@
 
 * Preface
@@ -46,25 +46,23 @@ Since most of the following sections will talk about specific algorithms, they w
 be organized in a similar layout and common components
 may include ~Motivation~, ~Algorithm~, ~Discussion~ and ~Computation~. However, 
 when discussing learning theory, such layouts will not be followed.
-{{{NEWLINE}}}
+
 #+INCLUDE: "ml/learning.org" :minlevel 1
-{{{NEWLINE}}}
 
 * Supervised Learning
 ** Regression
 #+INCLUDE: "ml/linear.org" :minlevel 3
-
 ** Classification
 #+INCLUDE: "ml/logistic.org" :minlevel 3
-
 
 * Unsupervised Learning
 ** Clustering
 #+INCLUDE: "ml/kmeans.org" :minlevel 3
-{{{NEWLINE}}}
 #+INCLUDE: "ml/spectral.org" :minlevel 3
 
 ** Dimensionality Reduction
 #+INCLUDE: "ml/pca.org" :minlevel 3
-{{{NEWLINE}}}
 #+INCLUDE: "ml/tsne.org" :minlevel 3
+
+
+

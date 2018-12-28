@@ -8,7 +8,8 @@ Deep Learning
 Introduction
 ============
 
-This set of notes come from two courses
+| This set of notes come from two courses
 
--  ECE 239AS: Neural Networks and Deep Learning
--  CS 269: Current Topics in Artificial Intelligence
+-  | ECE 239AS: Neural Networks and Deep Learning
+
+-  | CS 269: Current Topics in Artificial Intelligence
