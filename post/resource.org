@@ -1,6 +1,6 @@
 #+TITLE: Research Resources Repository
 #+AUTHOR: Guanqun Yang
-#+DATE: 12/27/2018
+#+DATE: 12/28/2018
 
 * Introduction
   As a person who loves to keep everything organized, I sometimes find it insufficient
@@ -18,10 +18,10 @@
   
 * Linear Algebra
   
-
++ [[http://web.stanford.edu/~jduchi/projects/general_notes.pdf][Derivations for Linear Algebra and Optimization]] by John Duchi
 * Convex Optimization
 
-
++ [[http://web.stanford.edu/~jduchi/projects/general_notes.pdf][Derivations for Linear Algebra and Optimization]] by John Duchi
 * Machine Learning
 
 * Deep Learning 
@@ -30,9 +30,22 @@
 * My Current Research
 
 * General Articles
-   + [[https://zhuanlan.zhihu.com/p/50597445][My eight years of doing PhD - Academics]] by [[http://www.cs.cmu.edu/~yunwang/][Dr. Yun Wang]] (in Chinese)
-   + [[https://zhuanlan.zhihu.com/p/50667670][My eight years of doing PhD - Fun]] by  [[http://www.cs.cmu.edu/~yunwang/][Dr. Yun Wang]] (in Chinese)
-   + [[http://www.adoctorateandbeyond.com/][A Doctorate and Beyond: Building a Career in Engineering and the Physical Sciences]] 
+** Uncategorized
++ [[http://pgbovine.net/email-tips.htm][Email Writing Tips]] by Philip Guo
++ [[http://www.adoctorateandbeyond.com/][A Doctorate and Beyond: Building a Career in Engineering and the Physical Sciences]]
++ [[https://sites.math.washington.edu/~lee/Writing/writing-proofs.pdf][Some Remarks on Writing Mathematical Proofs]] by John M. Lee
+
+  Some concensus and conventions of writing proofs in mathematical community.
+
+** PhD Application
++ [[http://pgbovine.net/PhD-application-tips.htm][A Five-Minute Guide to Ph.D. Program Applications]] by Philip Guo
+  + Some templates of SOPs could be found [[http://pgbovine.net/PhD-application-essay-examples.htm][here]].
+** PhD Life
++ [[https://zhuanlan.zhihu.com/p/50597445][My eight years of doing PhD - Academics]] by [[http://www.cs.cmu.edu/~yunwang/][Dr. Yun Wang]] (in Chinese)
++ [[https://zhuanlan.zhihu.com/p/50667670][My eight years of doing PhD - Fun]] by  [[http://www.cs.cmu.edu/~yunwang/][Dr. Yun Wang]] (in Chinese)
+** Job Hunting
+
+
 * Research Tools
 ** Commenting LaTex articles
    + [[http://ftp.math.purdue.edu/mirrors/ctan.org/support/latexdiff/doc/latexdiff-man.pdf][latexdiff]]
@@ -50,3 +63,5 @@
      + More solutions could be found [[https://tex.stackexchange.com/questions/111886/how-to-convert-a-scientific-manuscript-from-latex-to-word-using-pandoc][here]].
    + Using Overleaf
  
+* Coding
+
