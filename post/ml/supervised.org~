@@ -1,3 +1,0 @@
-* Supervised Learning
-#+INCLUDE: "linear.org" :minlevel 1
-#+INCLUDE: "logistic.org" :minlevel 1
