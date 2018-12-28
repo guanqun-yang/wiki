@@ -15,7 +15,7 @@ Preface
 The following notes come from three major sources
 
 -  School course: This is the most important source of information,
-   without which I probably still do random search in a *nearly*
+   without which I probably still do a random search in a *nearly*
    infinite "learning space". Each of these courses marks the milestone
    of my experiences of doing machine learning
 
@@ -28,15 +28,15 @@ The following notes come from three major sources
    #. STAT 202A: Statistical Computing
 
       The computation and statistical side of machine learning is the
-      emphasis, both of which are largely negelected even in advanced
-      level courses. The instroctor, Prof. Ying-Nian Wu, could dive into
-      low level computation or jump into very high level theoretical
+      emphasis, both of which are largely neglected even in advanced
+      level courses. The instructor, Prof. Ying-Nian Wu, could dive into
+      low-level computation or jump into very high-level theoretical
       generalization in a snap. These insights are invaluable for me to
       organize my mental repo previously built.
    #. CS 260: Machine Learning Algorithms
 
       This is the course that answers some fundamental yet negelected
-      questions like "why machine could learn" and "how well machine
+      questions like "why machines could learn" and "how well machines
       could learn". Even though it is a little mathematical intensive,
       the course equips me with a full set of tools to analyze machine
       learning algorithms in a structural fashion.
@@ -49,14 +49,14 @@ The following notes come from three major sources
 
    Self-study never stops ever since then but now it becomes more
    productive with help of formal education I received.
--  Project experiences: Though this may not seem to be directly releated
-   to this set of notes, doing projects for project-based course or
+-  Project experiences: Though this may not seem to be directly related
+   to this set of notes, doing projects for the project-based courses or
    Kaggle let me know the power of machine learning and motivated me to
    learn more, either from school courses or self-study.
 
 Since most of the following sections will talk about specific
 algorithms, they will be organized in a similar layout and common
-components may inlucde ``Motivation``, ``Algorithm``, ``Discussion`` and
+components may include ``Motivation``, ``Algorithm``, ``Discussion`` and
 ``Computation``. However, when discussing learning theory, such layouts
 will not be followed. :raw-latex:`\\`
 
@@ -68,10 +68,10 @@ Introduction
 
 Just like :math:`(\epsilon,\delta)` definition of limit in calculus,
 learning theory tries to answer the fundamental questions like "why
-machine could learn" and therefore it serves as the very foundation of
+machines could learn" and therefore it serves as the very foundation of
 machine learning.
 
-However, before we foremerly proceed to the details of theory or
+However, before we formally proceed to the details of theory or
 algorithms, I think it is important to see the **distinctions** between
 *learning from statistical side* and *learning from machine learning
 side*, which is referred to as two different cultures in some literature
@@ -84,16 +84,16 @@ The first viewpoint
 The author of *All of Statistics*, Larry Wasserman, believes (see `his
 blog
 post <https://normaldeviate.wordpress.com/2012/06/12/statistics-versus-machine-learning-5-2/>`__)
-there are **intrinsicly no** differences between two fields since they
-both involve the process of learning from data but there **does exists**
-some research perferences in each community, specifically
+there are **intrinsically no** differences between two fields since they
+both involve the process of learning from data but there **does exist**
+some research preferences in each community, specifically
 
 -  Statistic emphasizes formal statistical *inference* (confindence
-   intervals, hypothesis tests, optimal easimators) in low dimensional
+   intervals, hypothesis tests, optimal estimators) in low dimensional
    problems. Some topics of interests include survival analysis time
    series, spatial analysis.
 -  Machine learning emphasizes high dimensional *prediction* problems.
-   Some topics of interests include online learning, semi-supervisied
+   Some topics of interests include online learning, semi-supervised
    learning, manifold learning, active learning and boosting.
 
 He also provided a table to show that seemingly different terms actually
@@ -131,15 +131,14 @@ The second viewpoint
 
 *Learning from Data* (Yaser S. Abu-Mostafa et.al.), a book that takes a
 different approach than many other machine learning books and provides a
-lot of insights for me, shows the differences not only between
-statistics and machine learning, but also *learning in data mining*,
-specifically
+lot of insights, shows the differences not only between statistics and
+machine learning, but also *learning in data mining*, specifically
 
 -  Statistics shares the basic premises of learning from data, namely
    the use of a set of observations to uncover an underlying process. …
    . Because statistics is a mathematical field, emphasis is given to
    situations where most of the questions can be answered with rigorous
-   proofs. As a result, statistis focuses on somewhat idealized models
+   proofs. As a result, statistics focuses on somewhat idealized models
    and analyzes them in great detail. … .Therefore, we end up with
    weaker results that are nonetheless boradly applicable.
 -  Data mining is a practical field that focuses on finding patterns,
@@ -173,10 +172,30 @@ Summary of some answers on
 
 :raw-latex:`\\`
 
+Supervisied Learning
+====================
+
+Regression
+----------
+
 Linear Regression
 =================
 
-:raw-latex:`\\`
+Classification
+--------------
 
 Logistic Regression
 ===================
+
+Unsupervisided Learning
+=======================
+
+Clustering
+----------
+
+:raw-latex:`\\`
+
+Dimensionality Reduction
+------------------------
+
+:raw-latex:`\\`

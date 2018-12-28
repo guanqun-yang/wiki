@@ -8,7 +8,7 @@ Prologue
 Who am I
 ========
 
-My name is Guanqun Yang, and I am a second year master student in
+My name is Guanqun Yang, and I am a second-year master student in
 Electrical and Computer Engineering at UCLA. My research interests
 include statistical machine and its applications. You could learn more
 about me `here <https://guanqun-yang.github.io>`__.
@@ -19,8 +19,8 @@ Motivation
 Past experiences tell me how important it is to cherish the learning
 experiences I have. Even though learning here might refer to something
 other than school education like what I have learned about purely out of
-curiosity, it is still preferable to organize these information,
-believing they could serve certain purpose one day. As for the formal
+curiosity, it is still preferable to organize this information,
+believing they could serve a certain purpose one day. As for the formal
 courses I take, some sort of organization is **always** made by physical
 or digit notes (many thanks `BoostNote <https://boostnote.io>`__, the
 best note-taking software I have used). However, such organization still
@@ -35,7 +35,7 @@ they are all somehow disappointing
    However, these services serve pretty diverse purposes and look less
    professional and some advanced features are non-free, I finally gave
    up after some efforts.
--  Website from scratch: Since professional technical blogging is my
+-  A Website from scratch: Since professional technical blogging is my
    ultimate goal, I thought of this because of its high-customizability.
    However, it turns out it is much more expensive than the previous
    choice and involves much more time spending.
@@ -90,17 +90,17 @@ Here are some guidelines I will abide by:
            P[X \geq a] \leq \frac{E[X]}{a}\ (a>0)
            
 
--  Feature vectors will appear as row vectors in feature matrix. In
+-  Feature vectors will appear as row vectors in the feature matrix. In
    classification problems, the dataset (both features and labels) could
-   be arranged as matrix.
+   be arranged as a matrix.
 
    Note sometimes it is confusing to use :math:`m` and :math:`n` as
-   subscripts simultanelously, so when referring number of examples in
+   subscripts simultaneously, so when referring number of examples in
    the dataset, either :math:`m` or :math:`n` will be used. At the same
-   time, :math:`p` will be used to represent number of features in
+   time, :math:`p` will be used to represent the number of features in
    feature vector.
 
-   -  Example (dataset rearranged as matrix)
+   -  Example (dataset rearranged as a matrix)
 
       .. math::
 
