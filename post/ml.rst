@@ -172,8 +172,8 @@ Summary of some answers on
 
 :raw-latex:`\\`
 
-Supervisied Learning
-====================
+Supervised Learning
+===================
 
 Regression
 ----------
@@ -187,8 +187,8 @@ Classification
 Logistic Regression
 ===================
 
-Unsupervisided Learning
-=======================
+Unsupervised Learning
+=====================
 
 Clustering
 ----------
