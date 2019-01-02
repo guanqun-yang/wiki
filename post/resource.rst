@@ -109,9 +109,6 @@ Uncategorized
 -  `A Doctorate and Beyond: Building a Career in Engineering and the
    Physical Sciences <http://www.adoctorateandbeyond.com/>`__
 
-   Some concensus and conventions of writing proofs in mathematical
-   community.
-
 
 Writing and Presenting
 ----------------------
@@ -126,6 +123,9 @@ Techniques
 -  `Some Remarks on Writing Mathematical
    Proofs <https://sites.math.washington.edu/~lee/Writing/writing-proofs.pdf>`__
    by John M. Lee
+
+   Some concensus and conventions of writing proofs in mathematical
+   community.
 
 -  *Air & Light & Time & Space - How Successful Academics Write* by
    Helen Sword
