@@ -52,6 +52,48 @@ Machine Learning
 Deep Learning
 =============
 
+-  `Deep Learning Papers Reading
+   Roadmap <https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap>`__
+
+   -  A comprensive collection of papers includeing basics, methods and
+      applications.
+
+   -  `Paper
+      repository <https://github.com/LuckyZXL2016/Deep-Learning-Papers-Reading-Roadmap>`__
+      of the papers listed on this roadmap.
+
+-  `Awesome - Most Cited Deep Learning
+   Papers <https://github.com/terryum/awesome-deep-learning-papers>`__
+
+   -  A collection of papers **by topic** from 2012 to 2016 selected
+      according to their number of citations. This list could be used in
+      companion with the previous one, especially when reading papers
+      from the methods and applications section.
+
+   -  A `Python
+      script <https://github.com/terryum/awesome-deep-learning-papers/blob/master/fetch_papers.py>`__
+      that could download all the papers in the list.
+
+-  `Awesome Deep
+   Vision <https://github.com/kjw0612/awesome-deep-vision>`__
+
+   -  A list of papers (by topic), courses, books and many other
+      resources of computer vision using deep learning methods.
+
+-  `Awesome Computer
+   Vision <https://github.com/jbhuang0604/awesome-computer-vision>`__
+
+   -  A pretty extensive list that includes resources not only in
+      computer vision, but also `resources for
+      students <https://github.com/jbhuang0604/awesome-computer-vision#resources-for-students>`__,
+      like writing and presenting.
+
+-  `Academic Genealogy in Computer
+   Vision <https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md>`__
+
+-  `Awesome Recurrent Neural
+   Networks <https://github.com/kjw0612/awesome-rnn>`__
+
 
 My Current Research
 ===================
@@ -192,6 +234,18 @@ Commenting LaTex Articles
       `here <https://tex.stackexchange.com/questions/111886/how-to-convert-a-scientific-manuscript-from-latex-to-word-using-pandoc>`__.
 
 -  Using Overleaf
+
+
+Visualizing Data
+----------------
+
+-  *Handbook of Data Visualization* by `Dr. Chun-Houh
+   Chen <http://www3.stat.sinica.edu.tw/library/anniversary/people/faculty/faculty_cchen.htm>`__
+
+   A good starting point to choose the appropriate format to present
+   complex relations among variables using graph. An example to
+   visualize 20 variables done by author’s group could be found
+   `here <http://gap.stat.sinica.edu.tw/3476.pdf>`__ (in Chinese).
 
 
 Coding

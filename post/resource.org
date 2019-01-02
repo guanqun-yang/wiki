@@ -25,8 +25,22 @@
 * Machine Learning
 
 * Deep Learning 
-
-
++ [[https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap][Deep Learning Papers Reading Roadmap]]
+  + A comprensive collection of papers includeing basics, methods and applications.
+  + [[https://github.com/LuckyZXL2016/Deep-Learning-Papers-Reading-Roadmap][Paper repository]] of the papers listed on this roadmap.
++ [[https://github.com/terryum/awesome-deep-learning-papers][Awesome - Most Cited Deep Learning Papers]]
+  + A collection of papers *by topic* from 2012 to 2016 selected
+    according to their number of citations. This list could be used in companion with the previous one, 
+    especially when reading papers from the methods and applications section.
+  + A [[https://github.com/terryum/awesome-deep-learning-papers/blob/master/fetch_papers.py][Python script]] that could download all the papers in the list.
++ [[https://github.com/kjw0612/awesome-deep-vision][Awesome Deep Vision]]
+  + A list of papers (by topic), courses, books and many other resources of computer
+    vision using deep learning methods. 
++ [[https://github.com/jbhuang0604/awesome-computer-vision][Awesome Computer Vision]]
+  + A pretty extensive list that includes resources not only in computer vision, but also
+    [[https://github.com/jbhuang0604/awesome-computer-vision#resources-for-students][resources for students]], like writing and presenting.
++ [[https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md][Academic Genealogy in Computer Vision]]
++ [[https://github.com/kjw0612/awesome-rnn][Awesome Recurrent Neural Networks]]
 * My Current Research
 
 * General Articles
@@ -85,6 +99,12 @@
      + [[https://pandoc.org/MANUAL.html][pandoc]]: convert to ~.odt~ file.
      + More solutions could be found [[https://tex.stackexchange.com/questions/111886/how-to-convert-a-scientific-manuscript-from-latex-to-word-using-pandoc][here]].
    + Using Overleaf
+** Visualizing Data
+   + /Handbook of Data Visualization/ by [[http://www3.stat.sinica.edu.tw/library/anniversary/people/faculty/faculty_cchen.htm][Dr. Chun-Houh Chen]] 
      
+     A good starting point to choose the appropriate format to 
+     present complex relations among variables using graph. An example
+     to visualize 20 variables done by author's group could be found [[http://gap.stat.sinica.edu.tw/3476.pdf][here]]
+     (in Chinese).
 * Coding
 
