@@ -64,18 +64,46 @@ General Articles
 Uncategorized
 -------------
 
--  `Email Writing Tips <http://pgbovine.net/email-tips.htm>`__ by Philip
-   Guo
-
 -  `A Doctorate and Beyond: Building a Career in Engineering and the
    Physical Sciences <http://www.adoctorateandbeyond.com/>`__
+
+   Some concensus and conventions of writing proofs in mathematical
+   community.
+
+
+Writing and Presenting
+----------------------
+
+
+Techniques
+~~~~~~~~~~
+
+-  `Email Writing Tips <http://pgbovine.net/email-tips.htm>`__ by Philip
+   Guo
 
 -  `Some Remarks on Writing Mathematical
    Proofs <https://sites.math.washington.edu/~lee/Writing/writing-proofs.pdf>`__
    by John M. Lee
 
-   Some concensus and conventions of writing proofs in mathematical
-   community.
+-  *Air & Light & Time & Space - How Successful Academics Write* by
+   Helen Sword
+
+   -  Interviews of one hundred scholars around world with different
+      backgrounds who thrive in the publish-or-perish environment.
+
+
+Tools
+~~~~~
+
+-  `5 Classic Presentation
+   Fonts <https://thepresentationdesigner.co.uk/5-classic-presentation-fonts/>`__
+
+   -  Five fonts (``Helvetica``, ``Garamond`` and others) and their
+      history well-suited for presentation. To use the fonts mentioned,
+      go to `here (for
+      Helvetica) <https://tex.stackexchange.com/questions/121061/working-with-arial-or-helvetica-fonts>`__
+      or `here (for
+      Garamond) <https://tex.stackexchange.com/questions/406816/how-can-i-get-a-garamond-font>`__.
 
 
 PhD Application
@@ -100,16 +128,43 @@ PhD Life
    Fun <https://zhuanlan.zhihu.com/p/50667670>`__ by `Dr. Yun
    Wang <http://www.cs.cmu.edu/~yunwang/>`__ (in Chinese)
 
+-  `How to be a happy and productive
+   writer <https://mp.weixin.qq.com/s?__biz=MzI1OTA4Mjk3NA==&mid=2650830984&idx=1&sn=f963f564dfe1e01996e3c4545fd5c793>`__
+   by `Dr. Qian Yue <https://sociology.ubc.ca/profile/yue-qian/>`__ (in
+   Chinese)
 
-Job Hunting
------------
+   -  Note: This is a verbatim of a workshop mainly discussing
+      reading-writing cycle for PhD research in sociology. Even though
+      the voices come from a different discipline than engineering, the
+      methology, to my opinion, is largely the same and feels relatable
+      to my personal experiences.
+
+   -  Her `weibo
+      post <https://www.weibo.com/p/1001603935693545055068>`__ on the
+      same topic, but in more details (in Chinese).
+
+-  `How to manage your time, emotion, research progress as re-tenure
+   faculty
+   members? <https://mp.weixin.qq.com/s/50iNupppOyGLDt4cJmYk3Q>`__ by
+   `Dr. Qian Yue <https://sociology.ubc.ca/profile/yue-qian/>`__ (in
+   Chinese)
+
+   -  Note: This is an article talking about the author’s first year as
+      an assistant professor in sociology. Although I am currently still
+      a student, the time/emotion management part is pretty useful. At
+      the same time, since we are both abroad, the feelings about life
+      in a different country somehow synchronize.
+
+
+Career
+------
 
 
 Research Tools
 ==============
 
 
-Commenting LaTex articles
+Commenting LaTex Articles
 -------------------------
 
 -  `latexdiff <http://ftp.math.purdue.edu/mirrors/ctan.org/support/latexdiff/doc/latexdiff-man.pdf>`__

@@ -31,11 +31,23 @@
 
 * General Articles
 ** Uncategorized
-+ [[http://pgbovine.net/email-tips.htm][Email Writing Tips]] by Philip Guo
 + [[http://www.adoctorateandbeyond.com/][A Doctorate and Beyond: Building a Career in Engineering and the Physical Sciences]]
-+ [[https://sites.math.washington.edu/~lee/Writing/writing-proofs.pdf][Some Remarks on Writing Mathematical Proofs]] by John M. Lee
 
   Some concensus and conventions of writing proofs in mathematical community.
+** Writing and Presenting
+*** Techniques
++ [[http://pgbovine.net/email-tips.htm][Email Writing Tips]] by Philip Guo
++ [[https://sites.math.washington.edu/~lee/Writing/writing-proofs.pdf][Some Remarks on Writing Mathematical Proofs]] by John M. Lee
++ /Air & Light & Time & Space - How Successful Academics Write/ by Helen Sword
+  - Interviews of one hundred scholars around world with different backgrounds who thrive
+    in the publish-or-perish environment.
+*** Tools
++ [[https://thepresentationdesigner.co.uk/5-classic-presentation-fonts/][5 Classic Presentation Fonts]]
+  - Five fonts (~Helvetica~, ~Garamond~ and others)  and their history well-suited for presentation. To use
+    the fonts mentioned, go to [[https://tex.stackexchange.com/questions/121061/working-with-arial-or-helvetica-fonts][here (for Helvetica)]] or [[https://tex.stackexchange.com/questions/406816/how-can-i-get-a-garamond-font][here (for Garamond)]].
+
+
+
 
 ** PhD Application
 + [[http://pgbovine.net/PhD-application-tips.htm][A Five-Minute Guide to Ph.D. Program Applications]] by Philip Guo
@@ -43,11 +55,22 @@
 ** PhD Life
 + [[https://zhuanlan.zhihu.com/p/50597445][My eight years of doing PhD - Academics]] by [[http://www.cs.cmu.edu/~yunwang/][Dr. Yun Wang]] (in Chinese)
 + [[https://zhuanlan.zhihu.com/p/50667670][My eight years of doing PhD - Fun]] by  [[http://www.cs.cmu.edu/~yunwang/][Dr. Yun Wang]] (in Chinese)
-** Job Hunting
++ [[https://mp.weixin.qq.com/s?__biz=MzI1OTA4Mjk3NA==&mid=2650830984&idx=1&sn=f963f564dfe1e01996e3c4545fd5c793][How to be a happy and productive writer]] by [[https://sociology.ubc.ca/profile/yue-qian/][Dr. Qian Yue]] (in Chinese)
+  - Note: This is a verbatim of a workshop mainly discussing reading-writing cycle
+    for PhD research in sociology. Even though the voices come from a different
+    discipline than engineering, the methology, to my opinion, is largely the same and
+    feels relatable to my personal experiences.
+  - Her [[https://www.weibo.com/p/1001603935693545055068][weibo post]] on the same topic, but in more details (in Chinese).
++ [[https://mp.weixin.qq.com/s/50iNupppOyGLDt4cJmYk3Q][How to manage your time, emotion, research progress as re-tenure faculty members?]] by [[https://sociology.ubc.ca/profile/yue-qian/][Dr. Qian Yue]] (in Chinese)
+  - Note: This is an article talking about the author's first year as an assistant professor in sociology.
+    Although I am currently still a student, the time/emotion  management part is pretty useful. At the same time, 
+    since we are both abroad, the feelings about life in a different country somehow synchronize.
+
+** Career
 
 
 * Research Tools
-** Commenting LaTex articles
+** Commenting LaTex Articles
    + [[http://ftp.math.purdue.edu/mirrors/ctan.org/support/latexdiff/doc/latexdiff-man.pdf][latexdiff]]
 
     It is a Perl script that compares the differences of two ~.tex~ source files
@@ -62,6 +85,6 @@
      + [[https://pandoc.org/MANUAL.html][pandoc]]: convert to ~.odt~ file.
      + More solutions could be found [[https://tex.stackexchange.com/questions/111886/how-to-convert-a-scientific-manuscript-from-latex-to-word-using-pandoc][here]].
    + Using Overleaf
- 
+     
 * Coding
 
