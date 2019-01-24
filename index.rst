@@ -21,6 +21,7 @@ Table of Contents
    :maxdepth: 1
 
    post/prologue
+   post/stat
    post/linalg
    post/cvx
    post/ml

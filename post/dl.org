@@ -7,3 +7,17 @@
 This set of notes come from two courses
 + ECE 239AS: Neural Networks and Deep Learning
 + CS 269: Current Topics in Artificial Intelligence
+
+Since a success of a deep learning application primarily hinges on the choice
+of architecture, loss function and optimization methods, this set of notes will
+be divided into sections correspond to these topics.
+
+* Loss Function
+#+INCLUDE: "dl/hinge.org" :minlevel 3
+#+INCLUDE: "dl/softmax.org" :minlevel 3
+
+* Optimization Methods
+#+INCLUDE: "dl/gd.org" :minlevel 3
+
+* Architecture
+#+INCLUDE: "dl/fc.org" :minlevel 3
