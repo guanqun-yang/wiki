@@ -9,6 +9,8 @@ Statistics
 Preface
 =======
 
-The following notes come mainly come from my self-study when dealing
-with problems in machine learning. Most of the materials come from the
-book *All of Statistics* by Larry Wasserman.
+The following notes mainly come from my self-study when dealing with
+problems in machine learning. These materials are my internalized
+version (and therefore more organized and accessible for me) of book
+*All of Statistics* by Larry Wasserman, which is **the best one** I have
+ever read.
