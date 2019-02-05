@@ -248,5 +248,13 @@ Visualizing Data
    `here <http://gap.stat.sinica.edu.tw/3476.pdf>`__ (in Chinese).
 
 
+Collaborative Relationship among Researchers
+--------------------------------------------
+
+-  Search `dblp <https://dblp.uni-trier.de/>`__ (computer science
+   bibliography) for the researcher of interest and then click the
+   co-author pane on right hand side for the list of his/her co-authors.
+
+
 Coding
 ======

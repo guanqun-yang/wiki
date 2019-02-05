@@ -106,5 +106,10 @@
      present complex relations among variables using graph. An example
      to visualize 20 variables done by author's group could be found [[http://gap.stat.sinica.edu.tw/3476.pdf][here]]
      (in Chinese).
+** Collaborative Relationship among Researchers
+   + Search [[https://dblp.uni-trier.de/][dblp]] (computer science bibliography) for the researcher
+     of interest and then click the co-author pane on right hand side 
+     for the list of his/her co-authors.
+
 * Coding
 
